@@ -47,7 +47,7 @@ sites:
   - name: Pipeline Service
     url: https://api.app.rapidata.ai/Pipeline/health
     __dangerous__body_down: "Unhealthy"
-  - name: Translation Service
+  - name: Validation Service
     url: https://api.app.rapidata.ai/Validation/health
     __dangerous__body_down: "Unhealthy"
   - name: Campaign Monitor
