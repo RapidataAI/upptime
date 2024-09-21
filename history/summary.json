@@ -239,19 +239,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.app.rapidata.ai.ico",
     "slug": "campaign-service",
     "status": "up",
-    "uptime": "4.62%",
-    "uptimeDay": "4.62%",
-    "uptimeWeek": "4.62%",
-    "uptimeMonth": "4.62%",
-    "uptimeYear": "4.62%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 127,
     "timeDay": 127,
     "timeWeek": 127,
     "timeMonth": 127,
     "timeYear": 127,
-    "dailyMinutesDown": {
-      "2024-09-21": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Admin Service",
