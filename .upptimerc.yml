@@ -36,7 +36,7 @@ sites:
     url: https://api.app.rapidata.ai/Payment/health
     __dangerous__body_down: "Unhealthy"
   - name: Campaign Service
-    url: https://api.rapids.rapidata.ai/Campaign/health
+    url: https://api.app.rapidata.ai/Campaign/health
     __dangerous__body_down: "Unhealthy"
   - name: Admin Service
     url: https://api.app.rapidata.ai/Admin/health
