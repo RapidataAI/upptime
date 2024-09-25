@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.rapidata.ai.ico",
     "slug": "website-ai",
     "status": "up",
-    "uptime": "99.64%",
+    "uptime": "99.69%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.64%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.69%",
     "time": 403,
     "timeDay": 427,
     "timeWeek": 403,
@@ -204,9 +204,9 @@
     "url": "https://api.app.rapidata.ai/Order/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.app.rapidata.ai.ico",
     "slug": "order-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -215,7 +215,9 @@
     "timeWeek": 121,
     "timeMonth": 121,
     "timeYear": 121,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-25": 0
+    }
   },
   {
     "name": "Payment Service",
