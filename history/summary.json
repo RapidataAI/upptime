@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.rapidata.ai.ico",
     "slug": "website-ai",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
     "time": 383,
     "timeDay": 318,
-    "timeWeek": 383,
+    "timeWeek": 368,
     "timeMonth": 383,
     "timeYear": 383,
     "dailyMinutesDown": {
@@ -32,7 +32,7 @@
     "uptimeYear": "100.00%",
     "time": 397,
     "timeDay": 407,
-    "timeWeek": 397,
+    "timeWeek": 387,
     "timeMonth": 397,
     "timeYear": 397,
     "dailyMinutesDown": {}
@@ -50,7 +50,7 @@
     "uptimeYear": "100.00%",
     "time": 207,
     "timeDay": 176,
-    "timeWeek": 207,
+    "timeWeek": 226,
     "timeMonth": 207,
     "timeYear": 207,
     "dailyMinutesDown": {}
@@ -68,7 +68,7 @@
     "uptimeYear": "100.00%",
     "time": 194,
     "timeDay": 262,
-    "timeWeek": 194,
+    "timeWeek": 202,
     "timeMonth": 194,
     "timeYear": 194,
     "dailyMinutesDown": {}
@@ -86,7 +86,7 @@
     "uptimeYear": "100.00%",
     "time": 362,
     "timeDay": 478,
-    "timeWeek": 362,
+    "timeWeek": 380,
     "timeMonth": 362,
     "timeYear": 362,
     "dailyMinutesDown": {}
@@ -104,7 +104,7 @@
     "uptimeYear": "100.00%",
     "time": 324,
     "timeDay": 384,
-    "timeWeek": 324,
+    "timeWeek": 328,
     "timeMonth": 324,
     "timeYear": 324,
     "dailyMinutesDown": {}
@@ -122,7 +122,7 @@
     "uptimeYear": "100.00%",
     "time": 263,
     "timeDay": 381,
-    "timeWeek": 263,
+    "timeWeek": 278,
     "timeMonth": 263,
     "timeYear": 263,
     "dailyMinutesDown": {}
@@ -140,7 +140,7 @@
     "uptimeYear": "100.00%",
     "time": 609,
     "timeDay": 523,
-    "timeWeek": 609,
+    "timeWeek": 583,
     "timeMonth": 609,
     "timeYear": 609,
     "dailyMinutesDown": {}
@@ -150,18 +150,20 @@
     "url": "https://api.rapids.rapidata.ai/Session/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.rapids.rapidata.ai.ico",
     "slug": "session-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 117,
-    "timeDay": 94,
-    "timeWeek": 117,
-    "timeMonth": 117,
-    "timeYear": 117,
-    "dailyMinutesDown": {}
+    "time": 119,
+    "timeDay": 126,
+    "timeWeek": 115,
+    "timeMonth": 119,
+    "timeYear": 119,
+    "dailyMinutesDown": {
+      "2024-09-28": 0
+    }
   },
   {
     "name": "Workflow Service",
@@ -169,14 +171,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.app.rapidata.ai.ico",
     "slug": "workflow-service",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
     "time": 587,
     "timeDay": 484,
-    "timeWeek": 587,
+    "timeWeek": 535,
     "timeMonth": 587,
     "timeYear": 587,
     "dailyMinutesDown": {
@@ -196,7 +198,7 @@
     "uptimeYear": "100.00%",
     "time": 119,
     "timeDay": 93,
-    "timeWeek": 119,
+    "timeWeek": 112,
     "timeMonth": 119,
     "timeYear": 119,
     "dailyMinutesDown": {}
@@ -214,7 +216,7 @@
     "uptimeYear": "100.00%",
     "time": 119,
     "timeDay": 93,
-    "timeWeek": 119,
+    "timeWeek": 111,
     "timeMonth": 119,
     "timeYear": 119,
     "dailyMinutesDown": {}
@@ -232,7 +234,7 @@
     "uptimeYear": "100.00%",
     "time": 119,
     "timeDay": 92,
-    "timeWeek": 119,
+    "timeWeek": 111,
     "timeMonth": 119,
     "timeYear": 119,
     "dailyMinutesDown": {}
@@ -250,7 +252,7 @@
     "uptimeYear": "100.00%",
     "time": 118,
     "timeDay": 93,
-    "timeWeek": 118,
+    "timeWeek": 111,
     "timeMonth": 118,
     "timeYear": 118,
     "dailyMinutesDown": {}
@@ -268,7 +270,7 @@
     "uptimeYear": "100.00%",
     "time": 120,
     "timeDay": 94,
-    "timeWeek": 120,
+    "timeWeek": 112,
     "timeMonth": 120,
     "timeYear": 120,
     "dailyMinutesDown": {}
@@ -286,7 +288,7 @@
     "uptimeYear": "100.00%",
     "time": 119,
     "timeDay": 93,
-    "timeWeek": 119,
+    "timeWeek": 111,
     "timeMonth": 119,
     "timeYear": 119,
     "dailyMinutesDown": {}
@@ -304,7 +306,7 @@
     "uptimeYear": "100.00%",
     "time": 119,
     "timeDay": 92,
-    "timeWeek": 119,
+    "timeWeek": 110,
     "timeMonth": 119,
     "timeYear": 119,
     "dailyMinutesDown": {}
@@ -340,7 +342,7 @@
     "uptimeYear": "100.00%",
     "time": 130,
     "timeDay": 104,
-    "timeWeek": 130,
+    "timeWeek": 122,
     "timeMonth": 130,
     "timeYear": 130,
     "dailyMinutesDown": {}
