@@ -150,19 +150,19 @@
     "url": "https://api.rapids.rapidata.ai/Session/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.rapids.rapidata.ai.ico",
     "slug": "session-service",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 550,
-    "timeDay": 5093,
-    "timeWeek": 943,
-    "timeMonth": 550,
-    "timeYear": 550,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 534,
+    "timeDay": 3448,
+    "timeWeek": 883,
+    "timeMonth": 534,
+    "timeYear": 534,
     "dailyMinutesDown": {
-      "2024-09-30": 0
+      "2024-09-30": 13
     }
   },
   {
