@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.rapidata.ai.ico",
     "slug": "website-ai",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 359,
     "timeDay": 374,
     "timeWeek": 321,
@@ -78,10 +78,10 @@
     "url": "https://assets.rapidata.ai",
     "icon": "https://icons.duckduckgo.com/ip3/assets.rapidata.ai.ico",
     "slug": "assets",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 366,
@@ -89,7 +89,9 @@
     "timeWeek": 359,
     "timeMonth": 366,
     "timeYear": 366,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-06": 1
+    }
   },
   {
     "name": "Rapids Frontend",
