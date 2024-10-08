@@ -334,17 +334,19 @@
     "url": "https://api.app.rapidata.ai/Campaign/Monitor",
     "icon": "https://icons.duckduckgo.com/ip3/api.app.rapidata.ai.ico",
     "slug": "campaign-monitor",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 131,
-    "timeDay": 157,
-    "timeWeek": 136,
-    "timeMonth": 131,
-    "timeYear": 131,
-    "dailyMinutesDown": {}
+    "time": 373,
+    "timeDay": 4125,
+    "timeWeek": 1131,
+    "timeMonth": 373,
+    "timeYear": 373,
+    "dailyMinutesDown": {
+      "2024-10-08": 0
+    }
   }
 ]
