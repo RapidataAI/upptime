@@ -4,9 +4,9 @@
     "url": "https://www.rapidata.ai",
     "icon": "https://icons.duckduckgo.com/ip3/www.rapidata.ai.ico",
     "slug": "website-ai",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -16,6 +16,7 @@
     "timeMonth": 652,
     "timeYear": 557,
     "dailyMinutesDown": {
+      "2024-11-02": 0,
       "2024-09-21": 18
     }
   },
@@ -335,11 +336,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.app.rapidata.ai.ico",
     "slug": "campaign-monitor",
     "status": "up",
-    "uptime": "99.37%",
+    "uptime": "99.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.14%",
-    "uptimeYear": "99.37%",
+    "uptimeYear": "99.38%",
     "time": 807,
     "timeDay": 151,
     "timeWeek": 137,
