@@ -1,7 +1,7 @@
 url: https://api.app.rapidata.ai/Campaign/Monitor
-status: down
-code: 400
-responseTime: 8100
-lastUpdated: 2024-11-07T07:21:13.505Z
+status: up
+code: 200
+responseTime: 224
+lastUpdated: 2024-11-07T07:35:47.514Z
 startTime: 2024-09-21T13:34:39.425Z
 generator: Upptime <https://github.com/upptime/upptime>
