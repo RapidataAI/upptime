@@ -154,19 +154,19 @@
     "url": "https://api.rapids.rapidata.ai/Session/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.rapids.rapidata.ai.ico",
     "slug": "session-service",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 262,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 260,
     "timeDay": 98,
-    "timeWeek": 112,
-    "timeMonth": 118,
-    "timeYear": 262,
+    "timeWeek": 111,
+    "timeMonth": 117,
+    "timeYear": 260,
     "dailyMinutesDown": {
-      "2024-11-13": 0
+      "2024-11-13": 10
     }
   },
   {
@@ -302,19 +302,19 @@
     "url": "https://api.app.rapidata.ai/Pipeline/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.app.rapidata.ai.ico",
     "slug": "pipeline-service",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 118,
-    "timeDay": 98,
-    "timeWeek": 112,
-    "timeMonth": 118,
-    "timeYear": 118,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 117,
+    "timeDay": 100,
+    "timeWeek": 111,
+    "timeMonth": 117,
+    "timeYear": 117,
     "dailyMinutesDown": {
-      "2024-11-13": 0
+      "2024-11-13": 10
     }
   },
   {
