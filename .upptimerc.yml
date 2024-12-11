@@ -11,6 +11,8 @@ sites:
     url: https://app.rapidata.ai
   - name: APP IO
     url: https://app.rapidata.io
+  - name: Documentation
+    url: https://docs.rapidata.ai
   - name: Assets
     url: https://assets.rapidata.ai
   - name: Rapids Frontend
@@ -52,8 +54,7 @@ sites:
     __dangerous__body_down: "Unhealthy"
   - name: Campaign Monitor
     url: https://api.app.rapidata.ai/Campaign/Monitor
-    __dangerous__body_down: "Unhealthy"
-    
+    __dangerous__body_down: "Unhealthy"    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
