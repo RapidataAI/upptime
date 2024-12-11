@@ -82,19 +82,19 @@
     "url": "https://docs.rapidata.ai",
     "icon": "https://icons.duckduckgo.com/ip3/docs.rapidata.ai.ico",
     "slug": "documentation",
-    "status": "down",
-    "uptime": "3.47%",
-    "uptimeDay": "3.47%",
-    "uptimeWeek": "3.47%",
-    "uptimeMonth": "3.47%",
-    "uptimeYear": "3.47%",
-    "time": 549,
-    "timeDay": 549,
-    "timeWeek": 549,
-    "timeMonth": 549,
-    "timeYear": 549,
+    "status": "up",
+    "uptime": "2.42%",
+    "uptimeDay": "2.42%",
+    "uptimeWeek": "2.42%",
+    "uptimeMonth": "2.42%",
+    "uptimeYear": "2.42%",
+    "time": 389,
+    "timeDay": 389,
+    "timeWeek": 389,
+    "timeMonth": 389,
+    "timeYear": 389,
     "dailyMinutesDown": {
-      "2024-12-11": 0
+      "2024-12-11": 7
     }
   },
   {
