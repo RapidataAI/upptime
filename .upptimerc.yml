@@ -20,40 +20,40 @@ sites:
   - name: Rapids Frontend (RPDT)
     url: https://rapids.rpdt.net/rapid
   - name: Rapid Service
-    url: https://api.rapids.rapidata.ai/Rapid/health
+    url: https://api.rpdt.net/Rapid/health
     __dangerous__body_down: "Unhealthy"
   - name: Session Service
-    url: https://api.rapids.rapidata.ai/Session/health
+    url: https://api.rpdt.net/Session/health
     __dangerous__body_down: "Unhealthy"
   - name: Workflow Service
-    url: https://api.app.rapidata.ai/Workflow/health
+    url: https://api.rapidata.ai/Workflow/health
     __dangerous__body_down: "Unhealthy"
   - name: Identity Service
-    url: https://api.app.rapidata.ai/Identity/health
+    url: https://api.rapidata.ai/Identity/health
     __dangerous__body_down: "Unhealthy"
   - name: Order Service
-    url: https://api.app.rapidata.ai/Order/health
+    url: https://api.rapidata.ai/Order/health
     __dangerous__body_down: "Unhealthy"
   - name: Payment Service
-    url: https://api.app.rapidata.ai/Payment/health
+    url: https://api.rapidata.ai/Payment/health
     __dangerous__body_down: "Unhealthy"
   - name: Campaign Service
-    url: https://api.app.rapidata.ai/Campaign/health
+    url: https://api.rapidata.ai/Campaign/health
     __dangerous__body_down: "Unhealthy"
   - name: Admin Service
-    url: https://api.app.rapidata.ai/Admin/health
+    url: https://api.rapidata.ai/Admin/health
     __dangerous__body_down: "Unhealthy"
   - name: Dataset Service
-    url: https://api.app.rapidata.ai/Dataset/health
+    url: https://api.rapidata.ai/Dataset/health
     __dangerous__body_down: "Unhealthy"
   - name: Pipeline Service
-    url: https://api.app.rapidata.ai/Pipeline/health
+    url: https://api.rapidata.ai/Pipeline/health
     __dangerous__body_down: "Unhealthy"
   - name: Validation Service
-    url: https://api.app.rapidata.ai/Validation/health
+    url: https://api.rapidata.ai/Validation/health
     __dangerous__body_down: "Unhealthy"
   - name: Campaign Monitor
-    url: https://api.app.rapidata.ai/Campaign/Monitor
+    url: https://api.rapidata.ai/Campaign/Monitor
     __dangerous__body_down: "Unhealthy"    
 
 status-website:
