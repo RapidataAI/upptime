@@ -1,7 +1,7 @@
 url: https://api.rpdt.net/Rapid/health
-status: down
-code: 502
-responseTime: 154
-lastUpdated: 2025-01-29T07:47:53.104Z
+status: up
+code: 200
+responseTime: 331
+lastUpdated: 2025-01-29T07:54:11.737Z
 startTime: 2024-09-21T13:34:29.917Z
 generator: Upptime <https://github.com/upptime/upptime>
