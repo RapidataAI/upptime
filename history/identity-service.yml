@@ -1,7 +1,7 @@
 url: https://api.rapidata.ai/Identity/health
-status: up
-code: 200
-responseTime: 98
-lastUpdated: 2025-02-10T23:04:35.929Z
+status: down
+code: 502
+responseTime: 95
+lastUpdated: 2025-02-11T04:57:54.523Z
 startTime: 2024-09-21T13:34:32.841Z
 generator: Upptime <https://github.com/upptime/upptime>
