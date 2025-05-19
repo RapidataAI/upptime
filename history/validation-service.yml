@@ -1,7 +1,7 @@
 url: https://api.rapidata.ai/Validation/health
-status: up
-code: 200
-responseTime: 93
-lastUpdated: 2025-05-18T23:04:29.243Z
+status: down
+code: 502
+responseTime: 137
+lastUpdated: 2025-05-19T09:18:41.814Z
 startTime: 2024-09-21T14:06:41.226Z
 generator: Upptime <https://github.com/upptime/upptime>
