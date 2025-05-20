@@ -1,7 +1,7 @@
 url: https://api.rapidata.ai/Pipeline/health
-status: up
-code: 200
-responseTime: 152
-lastUpdated: 2025-05-19T23:04:53.510Z
+status: down
+code: 502
+responseTime: 98
+lastUpdated: 2025-05-20T06:12:20.495Z
 startTime: 2024-09-21T13:34:38.287Z
 generator: Upptime <https://github.com/upptime/upptime>
