@@ -1,7 +1,7 @@
 url: https://api.rapidata.ai/Dataset/health
-status: up
-code: 200
-responseTime: 92
-lastUpdated: 2025-05-20T23:04:48.322Z
+status: down
+code: 502
+responseTime: 133
+lastUpdated: 2025-05-21T17:28:25.170Z
 startTime: 2024-09-21T13:34:37.752Z
 generator: Upptime <https://github.com/upptime/upptime>
