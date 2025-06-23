@@ -1,7 +1,7 @@
 url: https://api.rapidata.ai/Payment/health
-status: up
-code: 200
-responseTime: 99
-lastUpdated: 2025-06-22T23:04:46.824Z
+status: down
+code: 502
+responseTime: 98
+lastUpdated: 2025-06-23T15:17:05.912Z
 startTime: 2024-09-21T13:34:33.994Z
 generator: Upptime <https://github.com/upptime/upptime>
