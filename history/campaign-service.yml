@@ -1,7 +1,7 @@
 url: https://api.rapidata.ai/Campaign/health
-status: down
-code: 502
-responseTime: 140
-lastUpdated: 2025-06-26T12:15:22.377Z
+status: up
+code: 200
+responseTime: 95
+lastUpdated: 2025-06-26T12:30:56.313Z
 startTime: 2024-09-21T13:34:34.551Z
 generator: Upptime <https://github.com/upptime/upptime>
