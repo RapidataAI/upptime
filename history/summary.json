@@ -102,9 +102,9 @@
     "slug": "assets",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 315,
     "timeDay": 302,
@@ -112,7 +112,7 @@
     "timeMonth": 319,
     "timeYear": 315,
     "dailyMinutesDown": {
-      "2025-07-16": 1
+      "2025-07-16": 8
     }
   },
   {
@@ -120,19 +120,19 @@
     "url": "https://rapids.rapidata.ai/rapid",
     "icon": "https://icons.duckduckgo.com/ip3/rapids.rapidata.ai.ico",
     "slug": "rapids-frontend",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 308,
-    "timeDay": 327,
-    "timeWeek": 275,
-    "timeMonth": 224,
-    "timeYear": 308,
+    "time": 316,
+    "timeDay": 1431,
+    "timeWeek": 557,
+    "timeMonth": 298,
+    "timeYear": 316,
     "dailyMinutesDown": {
-      "2025-07-16": 1
+      "2025-07-16": 7
     }
   },
   {
@@ -140,19 +140,19 @@
     "url": "https://rapids.rpdt.net/rapid",
     "icon": "https://icons.duckduckgo.com/ip3/rapids.rpdt.net.ico",
     "slug": "rapids-frontend-rpdt",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 241,
-    "timeDay": 230,
-    "timeWeek": 228,
+    "timeDay": 237,
+    "timeWeek": 230,
     "timeMonth": 246,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2025-07-16": 0
+      "2025-07-16": 7
     }
   },
   {
