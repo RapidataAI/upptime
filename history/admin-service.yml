@@ -1,7 +1,7 @@
 url: https://api.rapidata.ai/Admin/health
-status: down
-code: 502
+status: up
+code: 200
 responseTime: 96
-lastUpdated: 2025-08-19T12:14:07.214Z
+lastUpdated: 2025-08-19T12:29:18.962Z
 startTime: 2024-09-21T13:34:37.186Z
 generator: Upptime <https://github.com/upptime/upptime>
