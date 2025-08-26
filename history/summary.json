@@ -100,19 +100,19 @@
     "url": "https://assets.rapidata.ai",
     "icon": "https://icons.duckduckgo.com/ip3/assets.rapidata.ai.ico",
     "slug": "assets",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 320,
-    "timeDay": 392,
-    "timeWeek": 326,
+    "timeDay": 362,
+    "timeWeek": 327,
     "timeMonth": 352,
     "timeYear": 320,
     "dailyMinutesDown": {
-      "2025-08-26": 1,
+      "2025-08-26": 9,
       "2025-07-16": 27
     }
   },
@@ -121,19 +121,19 @@
     "url": "https://rapids.rapidata.ai/rapid",
     "icon": "https://icons.duckduckgo.com/ip3/rapids.rapidata.ai.ico",
     "slug": "rapids-frontend",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 310,
-    "timeDay": 318,
-    "timeWeek": 251,
-    "timeMonth": 280,
+    "timeDay": 323,
+    "timeWeek": 261,
+    "timeMonth": 282,
     "timeYear": 310,
     "dailyMinutesDown": {
-      "2025-08-26": 1
+      "2025-08-26": 8
     }
   },
   {
@@ -141,19 +141,19 @@
     "url": "https://rapids.rpdt.net/rapid",
     "icon": "https://icons.duckduckgo.com/ip3/rapids.rpdt.net.ico",
     "slug": "rapids-frontend-rpdt",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 243,
-    "timeDay": 289,
-    "timeWeek": 232,
-    "timeMonth": 263,
+    "timeDay": 264,
+    "timeWeek": 233,
+    "timeMonth": 262,
     "timeYear": 243,
     "dailyMinutesDown": {
-      "2025-08-26": 0
+      "2025-08-26": 8
     }
   },
   {
