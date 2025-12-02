@@ -64,9 +64,9 @@
     "slug": "app-io",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 714,
     "timeDay": 403,
@@ -74,7 +74,7 @@
     "timeMonth": 403,
     "timeYear": 793,
     "dailyMinutesDown": {
-      "2025-12-02": 0
+      "2025-12-02": 4
     }
   },
   {
@@ -112,7 +112,7 @@
     "timeMonth": 275,
     "timeYear": 318,
     "dailyMinutesDown": {
-      "2025-12-02": 20,
+      "2025-12-02": 24,
       "2025-12-01": 1440,
       "2025-11-30": 1440,
       "2025-11-29": 1440,
