@@ -1,7 +1,7 @@
-url: https://api.rpdt.net/Session/health
-status: down
-code: 502
-responseTime: 111
-lastUpdated: 2026-06-23T08:43:29.905Z
+url: https://api.rpdt.net/session/health
+status: up
+code: 200
+responseTime: 144
+lastUpdated: 2026-06-23T08:56:54.471Z
 startTime: 2024-09-21T13:34:31.008Z
 generator: Upptime <https://github.com/upptime/upptime>
