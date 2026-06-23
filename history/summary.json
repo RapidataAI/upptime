@@ -38,7 +38,7 @@
     "timeMonth": 90,
     "timeYear": 391,
     "dailyMinutesDown": {
-      "2026-06-23": 537,
+      "2026-06-23": 538,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
       "2026-06-20": 1440,
@@ -151,7 +151,7 @@
     "timeYear": 258,
     "dailyMinutesDown": {
       "2025-07-16": 27,
-      "2026-06-23": 537,
+      "2026-06-23": 538,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
       "2026-06-20": 1440,
@@ -479,18 +479,17 @@
     "slug": "workflow-service",
     "status": "up",
     "uptime": "95.30%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 255,
     "timeDay": 195,
     "timeWeek": 223,
     "timeMonth": 215,
     "timeYear": 259,
     "dailyMinutesDown": {
-      "2025-06-26": 16,
-      "2026-06-23": 13
+      "2025-06-26": 16
     }
   },
   {
@@ -500,10 +499,10 @@
     "slug": "identity-service",
     "status": "up",
     "uptime": "94.42%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 156,
     "timeDay": 227,
     "timeWeek": 213,
@@ -512,8 +511,7 @@
     "dailyMinutesDown": {
       "2025-06-26": 16,
       "2025-08-19": 32,
-      "2026-03-25": 27,
-      "2026-06-23": 12
+      "2026-03-25": 27
     }
   },
   {
@@ -523,10 +521,10 @@
     "slug": "order-service",
     "status": "up",
     "uptime": "81.44%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 156,
     "timeDay": 167,
     "timeWeek": 188,
@@ -534,8 +532,7 @@
     "timeYear": 130,
     "dailyMinutesDown": {
       "2025-06-26": 16,
-      "2026-03-25": 51,
-      "2026-06-23": 12
+      "2026-03-25": 51
     }
   },
   {
@@ -545,9 +542,9 @@
     "slug": "payment-service",
     "status": "up",
     "uptime": "96.53%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 148,
     "timeDay": 143,
@@ -557,8 +554,7 @@
     "dailyMinutesDown": {
       "2025-06-26": 16,
       "2026-03-13": 15,
-      "2026-03-25": 27,
-      "2026-06-23": 12
+      "2026-03-25": 27
     }
   },
   {
@@ -568,9 +564,9 @@
     "slug": "campaign-service",
     "status": "up",
     "uptime": "97.63%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 125,
     "timeDay": 135,
@@ -579,8 +575,7 @@
     "timeYear": 129,
     "dailyMinutesDown": {
       "2025-06-26": 16,
-      "2026-01-29": 17,
-      "2026-06-23": 12
+      "2026-01-29": 17
     }
   },
   {
@@ -589,10 +584,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.rapidata.ai.ico",
     "slug": "admin-service",
     "status": "up",
-    "uptime": "95.38%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptime": "95.39%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 127,
     "timeDay": 195,
@@ -602,8 +597,7 @@
     "dailyMinutesDown": {
       "2025-06-26": 16,
       "2025-08-19": 15,
-      "2026-03-13": 15,
-      "2026-06-23": 12
+      "2026-03-13": 15
     }
   },
   {
@@ -613,18 +607,17 @@
     "slug": "dataset-service",
     "status": "up",
     "uptime": "93.29%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 131,
     "timeDay": 129,
     "timeWeek": 180,
     "timeMonth": 178,
     "timeYear": 129,
     "dailyMinutesDown": {
-      "2025-06-26": 16,
-      "2026-06-23": 12
+      "2025-06-26": 16
     }
   },
   {
@@ -676,9 +669,9 @@
     "slug": "campaign-monitor",
     "status": "up",
     "uptime": "97.46%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 293,
     "timeDay": 145,
@@ -696,8 +689,7 @@
       "2026-02-13": 34,
       "2026-03-17": 27,
       "2026-03-26": 23,
-      "2026-04-17": 32,
-      "2026-06-23": 11
+      "2026-04-17": 32
     }
   }
 ]
