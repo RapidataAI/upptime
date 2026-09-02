@@ -1,7 +1,7 @@
 url: https://rapids.rapidata.ai/rapid
-status: up
-code: 200
-responseTime: 289
-lastUpdated: 2026-09-01T23:09:54.617Z
+status: down
+code: 504
+responseTime: 538
+lastUpdated: 2026-09-02T13:54:28.023Z
 startTime: 2024-09-21T13:34:28.593Z
 generator: Upptime <https://github.com/upptime/upptime>
