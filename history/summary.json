@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 380,
     "dailyMinutesDown": {
-      "2026-09-29": 451,
+      "2026-09-29": 467,
       "2026-09-28": 1440,
       "2026-09-27": 1440,
       "2026-09-26": 1440,
@@ -244,7 +244,7 @@
     "timeMonth": 94,
     "timeYear": 188,
     "dailyMinutesDown": {
-      "2026-09-29": 451,
+      "2026-09-29": 467,
       "2026-09-28": 1440,
       "2026-09-27": 1440,
       "2026-09-26": 1440,
@@ -846,16 +846,16 @@
     "url": "https://api.rapidata.ai/campaign/Monitor",
     "icon": "https://icons.duckduckgo.com/ip3/api.rapidata.ai.ico",
     "slug": "campaign-monitor",
-    "status": "down",
+    "status": "up",
     "uptime": "97.80%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.86%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 380,
-    "timeDay": 15500,
-    "timeWeek": 4082,
-    "timeMonth": 1256,
+    "timeDay": 10386,
+    "timeWeek": 3646,
+    "timeMonth": 1222,
     "timeYear": 337,
     "dailyMinutesDown": {
       "2025-10-09": 26,
@@ -864,7 +864,7 @@
       "2026-03-17": 27,
       "2026-03-26": 23,
       "2026-04-17": 32,
-      "2026-09-29": 1
+      "2026-09-29": 16
     }
   }
 ]
