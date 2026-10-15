@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.rapidata.io.ico",
     "slug": "website-io",
     "status": "down",
-    "uptime": "80.16%",
+    "uptime": "80.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 375,
     "dailyMinutesDown": {
-      "2026-10-15": 148,
+      "2026-10-15": 163,
       "2026-10-14": 1440,
       "2026-10-13": 1440,
       "2026-10-12": 1440,
@@ -260,7 +260,7 @@
     "timeMonth": 77,
     "timeYear": 175,
     "dailyMinutesDown": {
-      "2026-10-15": 149,
+      "2026-10-15": 164,
       "2026-10-14": 1440,
       "2026-10-13": 1440,
       "2026-10-12": 1440,
@@ -621,21 +621,21 @@
     "url": "https://rapids.rapidata.ai/rapid",
     "icon": "https://icons.duckduckgo.com/ip3/rapids.rapidata.ai.ico",
     "slug": "rapids-frontend",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
     "time": 283,
-    "timeDay": 241,
-    "timeWeek": 289,
-    "timeMonth": 350,
+    "timeDay": 289,
+    "timeWeek": 300,
+    "timeMonth": 351,
     "timeYear": 288,
     "dailyMinutesDown": {
       "2026-08-23": 40,
       "2026-09-02": 26,
-      "2026-10-15": 2
+      "2026-10-15": 16
     }
   },
   {
