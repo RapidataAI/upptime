@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 375,
     "dailyMinutesDown": {
-      "2026-10-22": 559,
+      "2026-10-22": 575,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
@@ -267,7 +267,7 @@
     "timeMonth": 70,
     "timeYear": 169,
     "dailyMinutesDown": {
-      "2026-10-22": 559,
+      "2026-10-22": 575,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
@@ -635,22 +635,22 @@
     "url": "https://rapids.rapidata.ai/rapid",
     "icon": "https://icons.duckduckgo.com/ip3/rapids.rapidata.ai.ico",
     "slug": "rapids-frontend",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
-    "time": 284,
-    "timeDay": 232,
-    "timeWeek": 282,
-    "timeMonth": 316,
+    "time": 285,
+    "timeDay": 220,
+    "timeWeek": 273,
+    "timeMonth": 312,
     "timeYear": 290,
     "dailyMinutesDown": {
       "2026-08-23": 40,
       "2026-09-02": 26,
       "2026-10-15": 16,
-      "2026-10-22": 1
+      "2026-10-22": 17
     }
   },
   {
@@ -658,21 +658,21 @@
     "url": "https://rapids.rpdt.net/rapid",
     "icon": "https://icons.duckduckgo.com/ip3/rapids.rpdt.net.ico",
     "slug": "rapids-frontend-rpdt",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
     "time": 272,
-    "timeDay": 333,
-    "timeWeek": 262,
-    "timeMonth": 275,
+    "timeDay": 328,
+    "timeWeek": 268,
+    "timeMonth": 276,
     "timeYear": 281,
     "dailyMinutesDown": {
       "2026-08-23": 39,
       "2026-09-02": 26,
-      "2026-10-22": 1
+      "2026-10-22": 17
     }
   },
   {
